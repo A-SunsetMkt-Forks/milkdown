@@ -50,7 +50,7 @@
   "dependencies": {
     "@milkdown/exception": "workspace:*",
     "@milkdown/utils": "workspace:*",
-    "mermaid": "^10.9.0",
+    "mermaid": "^11.4.1",
     "nanoid": "^5.0.0",
     "tslib": "^2.5.0",
     "unist-util-visit": "^5.0.0"
